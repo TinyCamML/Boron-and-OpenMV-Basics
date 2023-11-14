@@ -8,7 +8,7 @@ RX on OpenMV to TX on Boron (UART1)
 ground Boron
 power Boron
 
-You can view an updated circuit diagram here (f054042)
+You can view an updated circuit diagram here ([f054042](https://github.com/TinyCamML/Boron/commit/2462d21630931aa3c47d347dc4785ee979b96435))
 
 
 # USB for Power
