@@ -8,12 +8,11 @@ RX on OpenMV to TX on Boron (UART1)
 ground Boron
 power Boron
 
-You can view an updated circuit diagram here ([[f054042](https://github.com/TinyCamML/Boron/commit/2462d21630931aa3c47d347dc4785ee979b96435)])
+You can view an updated circuit diagram here ([https://github.com/TinyCamML/Boron-and-OpenMV-Basics/commit/6557d37fab1119bf6d81e07e3c410bd5a475df15])
 
-# USB for Power
+# Computer Connections
 
-I connected both the Boron and OpenMV Camera to my computer via USB ports. One past issue is that OpenMV may have not had enough power to undergo what we were asking. When I 
-plugged in the OpenMV to my computer it had enough power. USB to both Boron and OpenMV allowed us to see serial monitors for both devices and track both of their responses. 
+I connected both the Boron and OpenMV Camera to my computer via USB ports. One past issue is that OpenMV may have not had enough power to undergo what we were asking. When I plugged in the OpenMV to my computer it had enough power. USB to both Boron and OpenMV allowed us to see serial monitors for both devices and track both of their responses. 
 
 # Code for OpenMV and Boron
 
