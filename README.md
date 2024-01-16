@@ -1,4 +1,4 @@
-# Boron-and-OpenMV-Basics
+# How to recreate the UART connections and the code to have Boron and OpenMV communicate while dependent on computer USB.
 
 These documents show the basics of how to have the Boron and OpenMV electronics work together on a basic level. 
 
